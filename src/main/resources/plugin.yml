@@ -1,0 +1,4 @@
+name: CommandPlus
+version: '${project.version}'
+main: com.awaitquality.commandsplus.CommandsPlus
+api-version: '1.21'
