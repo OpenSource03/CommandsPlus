@@ -54,6 +54,6 @@ public class CommandsPlusExecutor implements CommandExecutor {
                            @NotNull String s, @NotNull String[] strings) {
     commandsPlus.execute(commandSender, command, s, strings);
 
-    return false;
+    return true;
   }
 }
